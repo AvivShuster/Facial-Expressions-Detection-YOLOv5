@@ -29,18 +29,18 @@ A summarization of the custom dataset generation:<br>
 
 2. Import the desired packages and connect to ROBOFLOW:<br>
 ![image](https://user-images.githubusercontent.com/121958931/220625748-0c2946ce-ff41-4352-b735-33004ec3aac4.png)
-<br>
+
 3. Train our custom YOLOv5 model:<br>
 ![image](https://user-images.githubusercontent.com/121958931/220623580-77dcff85-326e-4963-a5ce-adad311ab7ec.png)
-<br>
+
 ![image](https://user-images.githubusercontent.com/121958931/220623656-958d8ab9-9b40-4c3d-9975-987ccb13de92.png)
-<br>
+
 The training process:<br>
 ![image](https://user-images.githubusercontent.com/121958931/220623825-8d608dbb-1d37-4906-b90a-d519f1afc40b.png)
-<br>
+
 4. Run model with trained weights:<br>
 ![image](https://user-images.githubusercontent.com/121958931/220623926-7d550aad-fa4f-4e89-ac60-d572130f20f0.png)
-<br>
+
 ## Results 
 
 ![image](https://user-images.githubusercontent.com/121958931/220618324-5f5c85d8-5ec1-4fd5-b941-ea2ff3e8e94d.png)
