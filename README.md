@@ -28,7 +28,7 @@ A summarization of the custom dataset generation:<br>
 ![image](https://user-images.githubusercontent.com/121958931/220623068-2c03e551-7975-4143-8749-3d4c61bcb478.png)
 <br>
 2. Import the desired packages and connect to ROBOFLOW:<br>
-![image](https://user-images.githubusercontent.com/121958931/220623428-19f06e1b-adfe-4fd9-952e-d32577c4a907.png)
+![image](https://user-images.githubusercontent.com/121958931/220625748-0c2946ce-ff41-4352-b735-33004ec3aac4.png)
 <br>
 3. Train our custom YOLOv5 model:<br>
 ![image](https://user-images.githubusercontent.com/121958931/220623580-77dcff85-326e-4963-a5ce-adad311ab7ec.png)
