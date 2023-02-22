@@ -54,4 +54,4 @@ The training process:<br>
 ## Summary and Conclusions
 
 With the creation of a custom dataset, and YOLOv5 algorithm of object detection - the detection of thease seven emotions, was a success.
-In future versions, I will expand the amount of emotions to be detect and will try different additional augmetations techniques.
+In future versions, I will expand the amount of emotions to be detect and will try different additional augmentations techniques.
