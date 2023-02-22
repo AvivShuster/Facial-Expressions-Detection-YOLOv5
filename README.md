@@ -15,7 +15,7 @@ It contains 7 basic facial expressions:
 - sad
 - surprise<br>
 
-The annotation was executed with Roboflow, so in the end of the process, I had a custom yaml file in YOLOv5 format, so the model will know how to differ between the different emotions.<br>
+The annotation was executed with Roboflow, so in the end of the process, I had a custom yaml file in YOLOv5 format, which helps the model to know how to differ between the different emotions.<br>
 With Roboflow, I managed to implement various augmentations upon the dataset, so that it is vary diversified.
 Therefore, the model will be more resilient and capable of dealing with frames with high brightness, blur, different rotations and angles, concealments and noise.  
 
