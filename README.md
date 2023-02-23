@@ -1,6 +1,6 @@
 # Facial Expressions Detection using YOLOv5
 
-Facial expressions recognition using YOLOv5 and custom dataset with Roboflow - based on CKplus famous dataset.
+Facial expressions recognition using Transfer Learning with YOLOv5 and custom dataset with Roboflow - based on CKplus famous dataset.
 
 ## Custom Dataset
 
